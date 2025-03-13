@@ -25,7 +25,7 @@ The home page must display the following information in **cards**:
 - It should allow users to remove Pokémon from the favorites list.
 
 ## Technologies to use:
-- **React** or **Astro**
+- **React** and **Next.js**
 - **Tailwind CSS** (mandatory)
 - API requests using **fetch** or **axios**
 
